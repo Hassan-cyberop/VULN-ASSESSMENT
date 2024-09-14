@@ -51,7 +51,7 @@ This report presents the findings from a security and vulnerability assessment o
 | categ        | [categ.csv](#)            |
 | pictures     | 7 entries                 |
 
-**Note:** CSV files for each table are stored under `/home/kali/.local/share/sqlmap/output/testphp.vulnweb.com/dump/acuart/`.
+
 
 ---
 
